@@ -270,6 +270,7 @@ button:focus-visible {
 
 .search-form__label:hover {
   text-decoration: underline;
+  cursor: pointer;
 }
 
 .content__card-link:focus {
